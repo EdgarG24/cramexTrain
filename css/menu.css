@@ -1,0 +1,168 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+/* BARRA DE NAVEGACIÃ“N INICIO */
+
+/* barra de menu de navegacion horizontal inicio */
+nav{
+
+	background: rgba(255,255,255,0.95);
+	height: 75px;
+}
+/* barra de menu de navegacion horizontal final */
+
+/* logotipo barra de navegacion horizontal inicio */
+.cramex{
+
+	width: 122px;;
+	height:auto;
+	margin-left: 2%;
+}
+
+.cramex2{
+
+	width: 220px;
+    height: 100%;
+    margin-bottom: 0.5%;
+}
+/* logotipo barra de navegacion horizontal final */
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+/* logo barra de menu de navegacion lateral inicio*/
+.fondo img{
+	width: 300px;
+	height: 100px;
+}
+/* logo barra de menu de navegacion lateral final*/
+
+/* BARRA DE NAVEGACIÃ“N FINAL */
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+/* MENUS INICIO */
+
+/* MENU HORIZONTAL inicio */
+
+/* rectangulo del submenu horizontal inicio */
+.dropdown-content {
+
+	background-color: rgba(255,255,255,0.95);
+	min-width: 200px;
+}
+/* rectangulo del submenu horizontal final */
+
+
+/* cuando paso el cursos sobre rectangulo de las letras del menu horizontal inicio */
+li:hover{
+
+	background-color: rgba(255,255,255,0.10);
+}
+/* cuando paso el cursos sobre rectangulo de las letras del menu horizontal final */
+
+
+/* letras de menu horizontal inicio */
+.colortext{
+
+	color: rgb(0,7,61);
+}
+/* letras de menu horizontal final */
+
+
+/* letras de submenu horizontal inicio */
+.dropdown-content .colortext{
+
+	color: rgb(0,7,61);
+}
+/* letras de submenu horizontal final */
+
+
+/* cuando paso el cursor sobre el rectangulo del submenu horizontal inicio */
+.dropdown-content li:hover, .dropdown-content li.active {
+
+	background-color: rgba(255,255,255,0.10);
+}
+/* cuando paso el cursor sobre el rectangulo del submenu horizontal final */
+
+
+/* tres barras de hamburguesa inicio */
+.hamburguesa{
+	color: rgb(0,7,61);
+
+}
+/* tres barras de hamburguesa final */
+
+/* MENU HORIZONTAL final */
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
+/* MENU LATERAL inicio */
+
+/* barra de menu lateral inicio */
+.sidenav{
+
+	background-color: rgb(255, 255, 255);
+}
+/* barra de menu lateral final */
+
+
+/* cuando paso con el cursos sobre el rectangulo del menu lateral inicio */
+.sidenav .collapsible-header:hover{
+
+	background-color: rgba(255,255,255,0.15);
+}
+/* cuando paso con el cursos sobre el rectangulo del menu lateral final */
+
+
+/* barra del submenu lateral inicio */
+.collapsible-body ul li a{
+	background-color: rgb(0,7,61);
+
+}
+/* barra del submenu lateral final */
+
+
+/* cuando paso el cursos sobre el rectangulo del submenu lateral inicio */
+.collapsible-body:hover{
+
+	background-color: rgba(255,255,255,0.10);
+}
+/* cuando paso el cursos sobre el rectangulo del submenu lateral final */
+
+
+/* con este logre que sin tocar la palabra me lleve al link inicio */
+.collapsible-header a{
+	width: 100%;
+}
+/* con este logre que sin tocar la palabra me lleve al link final */
+
+/* MENU LATERAL final */
+
+/* MENUS FINAL */
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+
